@@ -1,4 +1,4 @@
-# Gaucamole
+# Guacamole
 
 ## Ingredients
 
